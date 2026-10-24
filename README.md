@@ -1,6 +1,5 @@
 # TRACE Hub - MK Inspection Hub
 
-![MK Inspection Hub](https://raw.githubusercontent.com/MKInspectionHub/trace-hub/main/logo.png)
 
 **Digital Product Passport (DPP) & Factory Inspection for EU & USA Market | From Bangladesh**
 
