@@ -1,5 +1,4 @@
-# TRACE Hub - MK Inspection Hub
-
+# TRACE Hub - EU DPP & USA Ready
 
 **Digital Product Passport (DPP) & Factory Inspection for EU & USA Market | From Bangladesh**
 
@@ -11,7 +10,8 @@ TRACE Hub connects Bangladeshi RMG factories directly with EU & USA buyers. We p
 - ✅ QR Code Traceability
 
 ## Market Focus
-🇪🇺 EU Market | 🇺🇸 USA Market | 🇧🇩 Made in Bangladesh
+EU EU Market | US USA Market | BD Made in Bangladesh
 
-Website: Coming Soon
-Contact: MKInspectionHub
+Website: https://trace-hub.github.io/trace-hub/
+Contact: TRACE Hub Network - Bangladesh
+
